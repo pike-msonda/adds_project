@@ -1,0 +1,5 @@
+﻿GroupStatusCode,GroupStatusDescription
+A,Activated
+P,Pending Approval
+E,Subscription Expired
+W,Waiting for Activation

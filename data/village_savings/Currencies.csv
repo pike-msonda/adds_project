@@ -1,0 +1,11 @@
+﻿CurrencyCode,CurrencyName,DateCreated,CreatedBy,CurrencySymbol
+BWP,Botswana Pula,2018-09-26 00:00:00.000,SYSADMIN,P
+GBP,Great Britain Pound,2019-10-27 00:00:00.000,SYSADMIN,£
+KES,Kenyan Shilling,2018-09-26 00:00:00.000,SYSADMIN,K
+MWK,Malawi Kwacha,2018-08-28 00:00:00.000,SYSADMIN,K
+MZN,Mozambican Metical,2018-09-26 00:00:00.000,SYSADMIN,MT
+NGN,Nigerian Naira,2019-10-27 00:00:00.000,SYSADMIN,‎₦
+TZS,Tanzanian Shilling,2019-10-27 00:00:00.000,SYSADMIN,TZS
+USD,United States Dollar,2019-10-27 00:00:00.000,SYSADMIN,$
+ZAR,South African Rand,2018-09-26 00:00:00.000,SYSADMIN,Z
+ZMW,Zambian Kwacha,2018-09-26 00:00:00.000,SYSADMIN,ZK

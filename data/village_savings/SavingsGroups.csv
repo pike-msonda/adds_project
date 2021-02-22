@@ -1,0 +1,133 @@
+GroupID	GroupName	MaximumMemberCount	LanguageCode	CurrencyCode	LocationId	IsActive	GroupStatusCode	GroupTypeCode	DateCreated
+1	Brakus-Borer	20	en-GB	MWK	7	1	A	V	20:09.8
+2	"Bergstrom, Raynor and Gutmann"	10	en-GB	MWK	7	1	A	V	31:19.9
+3	Carroll and Sons	8	en-GB	MWK	7	1	E	V	29:02.8
+4	Hoppe-Lueilwitz	10	en-GB	MWK	7	1	E	M	04:19.3
+5	Pacocha-Wuckert	20	en-GB	ZMW	44	1	E	V	42:46.3
+6	"Rath, Becker and Stracke"	15	en-GB	ZMW	105	1	E	V	48:20.2
+7	Koelpin and Sons	8	en-GB	MWK	17	1	E	V	36:17.6
+8	Ward LLC	20	en-GB	MWK	7	1	E	V	05:46.1
+9	Watsica Inc	5	en-GB	MWK	7	1	E	V	07:12.4
+10	"Spencer, Donnelly and Rohan"	20	en-GB	MWK	7	1	E	M	45:27.9
+11	Kilback-Schmeler	24	en-GB	MWK	7	1	E	V	12:11.8
+12	Dietrich LLC	3	en-GB	BWP	156	1	E	V	46:34.7
+13	Moore-McLaughlin	6	en-GB	MWK	7	1	E	V	02:20.1
+14	Gottlieb-Goldner	15	en-GB	MWK	7	1	E	V	59:53.1
+15	Nicolas LLC	20	en-GB	MWK	17	1	E	V	49:04.5
+16	Goodwin Inc	5	en-GB	MWK	7	1	E	M	13:12.6
+17	Lemke Group	6	en-GB	MWK	7	1	E	V	04:05.9
+18	"Schneider, Lakin and Lemke"	61	en-GB	MWK	17	1	E	V	02:33.1
+19	Dibbert-Runolfsson	13	en-GB	MWK	7	1	E	V	53:09.7
+20	Rolfson-Nader	21	en-GB	MWK	7	1	E	V	18:00.3
+21	"Stehr, Kirlin and Kihn"	30	en-GB	ZMW	76	1	E	M	54:32.3
+22	Parker-Borer	3	en-GB	MWK	17	1	E	M	38:11.7
+23	Waters-Wintheiser	30	en-GB	MWK	7	1	E	V	25:25.7
+24	Botsford-Schmidt	2	en-GB	MWK	7	1	E	V	40:27.5
+25	Collins-Muller	20	en-GB	MWK	7	1	E	M	05:01.1
+26	Mayer and Sons	3	en-GB	MWK	7	1	E	V	37:18.4
+27	"Abbott, Muller and Friesen"	3	en-GB	MWK	7	1	E	V	31:48.1
+28	Wintheiser LLC	3	en-GB	MWK	7	1	E	V	36:42.5
+29	"Adams, Schowalter and Schaden"	7	en-GB	MWK	7	1	E	V	57:04.1
+30	Little-Baumbach	20	en-GB	MWK	17	1	E	V	27:48.6
+31	"Hessel, Turner and Gerlach"	10	en-GB	MWK	7	1	E	V	11:29.8
+32	"Hartmann, Gislason and Herman"	14	en-GB	MWK	17	1	E	V	51:48.6
+33	Erdman Group	15	en-GB	MWK	7	1	E	V	57:08.5
+34	Greenholt and Sons	2	en-GB	MWK	7	1	E	U	35:38.5
+35	Bayer-Simonis	3	en-GB	MWK	17	1	E	V	22:28.7
+36	"Hansen, VonRueden and Welch"	10	en-GB	MWK	7	1	E	V	50:07.4
+37	"Ratke, Shields and Mante"	4	en-GB	MWK	7	1	E	V	25:20.0
+38	"Streich, Champlin and Schowalter"	4	en-GB	MWK	7	1	E	V	21:38.1
+39	"Yost, Bayer and Crooks"	10	en-GB	MWK	20	1	E	V	59:40.5
+40	Weissnat and Sons	100	en-GB	MWK	4	1	E	M	39:57.4
+41	Fisher-Mohr	40	en-GB	MWK	4	1	E	M	37:18.8
+42	Berge Group	6	en-GB	MWK	7	1	E	M	52:46.9
+43	"Turcotte, O'Kon and Hessel"	9	en-GB	MWK	17	1	E	V	18:54.4
+44	"Beier, Abshire and Stamm"	11	en-GB	MWK	7	1	E	V	32:34.4
+45	Block LLC	20	en-GB	MWK	10	1	E	V	35:50.9
+46	Kling Inc	35	en-GB	MWK	17	1	E	V	25:57.0
+47	"Roob, Huels and Emmerich"	12	en-GB	ZMW	76	1	E	V	52:26.1
+48	Boehm-Harber	11	en-GB	MWK	7	1	E	V	26:07.8
+49	Murray-Mills	20	en-GB	MWK	7	1	E	M	58:39.5
+50	Runte and Sons	40	en-GB	MWK	7	1	E	V	58:49.8
+51	"Mills, Rosenbaum and Medhurst"	5	en-GB	MWK	7	1	E	V	01:23.2
+52	Bailey-Adams	55	en-GB	MWK	21	1	E	V	33:22.3
+53	Schamberger and Sons	19	en-GB	MWK	17	1	E	V	25:31.0
+54	"Gerhold, Fahey and O'Hara"	11	en-GB	MWK	7	1	E	V	33:55.1
+55	"Haley, Runolfsdottir and McClure"	15	en-GB	MWK	4	1	E	V	11:19.2
+56	Willms and Sons	12	en-GB	ZMW	101	1	E	V	36:46.8
+57	Pacocha Group	5	en-GB	MWK	7	1	E	V	15:08.8
+58	Lakin-Deckow	2	en-GB	MWK	22	1	E	V	05:11.4
+59	Renner and Sons	6	en-GB	MWK	7	1	E	M	07:28.9
+60	Bernier-Tromp	8	en-GB	MWK	7	1	E	V	53:18.0
+61	Harvey-Medhurst	16	en-GB	MWK	7	1	E	V	48:56.8
+62	Kemmer Inc	5	en-GB	MWK	7	1	E	M	36:58.2
+63	Leffler Group	34	en-GB	ZMW	76	1	E	V	34:19.0
+64	"Turcotte, Veum and Kuphal"	18	en-GB	ZMW	76	1	E	V	39:08.6
+65	Dicki Group	10	en-GB	ZMW	45	1	E	V	07:07.9
+66	Mitchell Inc	30	en-GB	MWK	7	1	E	V	35:14.4
+67	Huels-Feeney	12	en-GB	MWK	7	1	E	V	01:22.2
+68	Fisher LLC	5	en-GB	ZMW	76	1	E	V	20:27.1
+69	Moen LLC	25	en-GB	MWK	9	1	E	V	08:57.9
+70	Hansen LLC	25	en-GB	ZMW	76	1	E	V	33:31.3
+71	"Yundt, Powlowski and Weber"	9	en-GB	MWK	17	1	E	V	08:34.1
+72	Dach Inc	20	en-GB	MWK	7	1	E	V	04:11.5
+73	Purdy and Sons	10	en-GB	MWK	7	1	E	V	32:25.3
+74	Legros-Borer	15	en-GB	MWK	7	1	E	V	36:10.4
+75	"Heaney, Jenkins and Smitham"	25	en-GB	ZMW	76	1	E	V	42:12.5
+76	Jacobi Inc	37	en-GB	MWK	4	1	E	V	24:45.6
+77	Mayert Inc	2	en-GB	ZMW	108	1	E	V	00:47.9
+78	Oberbrunner-Raynor	30	en-GB	ZMW	76	1	E	V	49:54.2
+79	MacGyver-Fadel	22	en-GB	ZMW	76	1	E	V	07:18.1
+80	Braun-Mohr	5	en-GB	MWK	17	1	E	V	55:00.5
+81	Luettgen-Hand	15	en-GB	MWK	7	1	A	V	23:26.8
+82	"Muller, Turcotte and Towne"	11	en-GB	MWK	5	1	E	V	48:57.4
+83	Jerde LLC	2	en-GB	MWK	4	1	E	V	44:49.7
+84	"Rosenbaum, Quitzon and Strosin"	15	en-GB	MWK	4	1	E	M	43:07.2
+85	Wintheiser-Schiller	10	en-GB	MWK	4	1	E	V	29:58.4
+86	"Witting, Cummings and Spinka"	4	en-GB	ZMW	76	1	E	V	15:53.2
+87	"O'Kon, Rogahn and Crona"	5	en-GB	MWK	20	1	E	V	00:20.2
+88	"Schowalter, Welch and Sipes"	10	en-GB	ZMW	82	1	E	V	49:21.0
+89	Corwin-Spinka	2	en-GB	ZMW	76	1	E	V	38:46.7
+90	Kunze-Morar	15	en-GB	ZMW	76	1	E	V	53:32.2
+91	Gorczany LLC	8	en-GB	MWK	17	1	E	V	28:29.2
+92	Mayer LLC	14	en-GB	MWK	7	1	E	V	17:36.1
+93	Medhurst-Swaniawski	10	en-GB	MWK	17	1	E	V	33:11.3
+94	"Armstrong, Kuvalis and Casper"	14	en-GB	MWK	17	1	A	V	40:08.0
+95	"Boyle, Bernier and Cremin"	3	en-GB	MWK	7	1	E	V	48:01.8
+96	Friesen LLC	2	en-GB	MWK	17	1	E	M	54:15.8
+97	"Nicolas, Beier and Langworth"	30	en-GB	ZMW	76	1	E	V	06:12.7
+98	Gutkowski Inc	10	en-GB	MWK	7	1	E	V	26:54.1
+99	"Turner, Ritchie and Greenholt"	8	en-GB	MWK	7	1	E	V	06:03.2
+100	Graham-Anderson	2	en-GB	MWK	7	1	E	V	47:56.0
+101	"Kerluke, Hansen and Durgan"	10	en-GB	MWK	7	1	E	V	17:06.4
+102	"Schmeler, Jast and Russel"	2	en-GB	MWK	18	1	E	U	00:39.6
+103	Schowalter-Hermiston	50	en-GB	MWK	7	1	E	V	01:00.2
+104	Breitenberg-Gibson	12	en-GB	MWK	7	1	E	V	54:39.8
+105	"Abshire, Brekke and Greenfelder"	30	en-GB	MWK	8	1	E	V	29:01.5
+106	Schiller LLC	30	en-GB	MWK	7	1	E	V	42:58.3
+107	Gutkowski-Borer	5	en-GB	MWK	7	1	E	V	49:53.9
+108	Pacocha-Cummerata	10	en-GB	ZMW	44	1	E	V	55:21.1
+109	Schaefer LLC	3	en-GB	NGN	5	1	E	V	27:54.1
+110	Kautzer Group	4	en-GB	MWK	11	1	E	V	11:22.6
+111	Beatty-Donnelly	5	en-GB	MWK	9	1	E	V	24:42.7
+112	Brekke LLC	5	en-GB	MWK	7	1	E	V	25:55.6
+113	"Kassulke, Stroman and Kovacek"	7	en-GB	MWK	17	1	E	V	08:15.6
+114	Wiegand-Huel	25	en-GB	MWK	17	1	A	V	45:06.2
+115	"Brekke, Powlowski and Durgan"	10	en-GB	MWK	7	1	E	V	27:26.9
+116	Harvey-Jenkins	8	en-GB	MWK	7	1	A	V	07:33.6
+117	"Jakubowski, Sawayn and Will"	5	en-GB	MWK	4	1	A	V	37:35.0
+118	Hane Inc	5	en-GB	MWK	7	1	A	V	33:30.8
+119	Parker-Kovacek	15	en-GB	MWK	7	1	A	M	24:41.7
+120	Lockman-Kuhic	40	en-GB	ZMW	76	1	A	V	13:06.7
+121	Breitenberg and Sons	150	en-GB	MWK	17	1	A	V	56:57.5
+122	Roberts and Sons	2	en-GB	MWK	7	1	A	V	59:31.1
+123	"Kshlerin, Jerde and Stiedemann"	10	en-GB	MWK	17	1	A	V	56:05.6
+124	"Walter, Blanda and Schuppe"	50	en-GB	ZMW	76	1	A	V	49:07.1
+125	Green LLC	5	en-GB	MWK	7	1	A	V	19:21.2
+126	Lind Group	10	en-GB	ZMW	76	1	A	V	15:00.2
+127	Parisian-Schaden	12	en-GB	MWK	7	1	A	V	29:09.2
+128	Howell and Sons	2	en-GB	MWK	7	1	A	V	00:51.8
+129	Collier-Herzog	45	en-GB	MWK	7	1	A	V	03:29.2
+130	"Marvin, Gislason and Parisian"	5	en-GB	MWK	7	1	A	V	56:17.2
+131	"Kassulke, Kautzer and Runolfsson"	10	en-GB	MWK	4	1	A	V	20:37.6
+132	Marks and Sons	15	en-GB	MWK	7	1	A	V	22:46.0

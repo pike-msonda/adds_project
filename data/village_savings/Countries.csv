@@ -1,0 +1,11 @@
+﻿CountryCode,CountryName,PhoneCode,IsKhusaServiceOffered,GMTHours
+BW,Botswana,+267,1,2
+KE,Kenya,+254,1,-2
+MW,Malawi,+265,1,2
+MZ,Mozambique,+258,1,2
+NG,Nigeria,+234,1,2
+TZ,Tanzania,+255,1,2
+UK,United Kingdom,+44,1,0
+US,United States of America,+1,1,-5
+ZA,South Africa,+27,1,2
+ZM,Zambia,+260,1,2
