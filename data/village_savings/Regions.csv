@@ -1,0 +1,79 @@
+﻿RegionId,RegionName,CountryCode
+1,North,MW
+2,Central,MW
+3,South,MW
+4,Central,ZM
+5,Copperbelt,ZM
+6,Eastern,ZM
+7,Luapula,ZM
+8,Lusaka,ZM
+9,Muchinga,ZM
+10,North-Western,ZM
+11,Northern,ZM
+12,Southern,ZM
+13,Western,ZM
+14,Central,BW
+15,Chobe,BW
+16,Ghanzi,BW
+17,Kgalagadi,BW
+18,Kgatleng,BW
+19,Kweneng,BW
+20,North East,BW
+21,North West,BW
+22,South East,BW
+23,Southern,BW
+27,Cabo Delgado,MZ
+28,Gaza,MZ
+29,Inhambane,MZ
+30,Manica,MZ
+31,Maputo City,MZ
+32,Maputo,MZ
+33,Nampula,MZ
+34,Niassa,MZ
+35,Sofala,MZ
+36,Tete,MZ
+37,Zambezia,MZ
+38,North Central (Middle Belt),NG
+39,North East,NG
+40,North West,NG
+41,South East,NG
+42,South South (Niger Delta),NG
+43,South West,NG
+44,Arusha,TZ
+45,Dar es Salaam,TZ
+46,Dodoma,TZ
+47,Geita,TZ
+48,Iringa,TZ
+49,Kagera,TZ
+50,Katavi,TZ
+51,Kigoma,TZ
+52,Kilimanjaro,TZ
+53,Kusini Pemba,TZ
+54,Kusini Unguja,TZ
+55,Lindi,TZ
+56,Manyara,TZ
+57,Mara,TZ
+58,Mbeya,TZ
+59,Mjini Magharibi,TZ
+60,Morogoro,TZ
+61,Mtwara,TZ
+62,Mwanza,TZ
+63,Njombe,TZ
+64,Pwani,TZ
+65,Rukwa,TZ
+66,Ruvuma,TZ
+67,Shinyanga,TZ
+68,Simiyu,TZ
+69,Singida,TZ
+70,Songwe,TZ
+71,Tabora Region,TZ
+72,Tanga,TZ
+73,Eastern Cape,ZA
+74,Free State,ZA
+75,Gauteng,ZA
+76,KwaZulu-Natal,ZA
+77,Limpopo,ZA
+78,Mpumalanga,ZA
+79,North West,ZA
+80,Northern Cape,ZA
+81,Western Cape,ZA
