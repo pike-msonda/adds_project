@@ -10,3 +10,19 @@ def create_conditions(columns, value, condition,  operator='='):
     for i in range(len(columns)):
        condtions += condtions+' '+columns[i] + operator + value +' '+condition
     return condtions;
+
+def nothern_africa():
+    return [
+        'Algeria',
+        'Canary Islands',
+        'Ceuta',
+        'Egypt',
+        'Libya',
+        'Madeira',
+        'Melilla',
+        'Morocco',
+        'Sahrawai Araba Democratic Republic',
+        'Sudan',
+        'Sudan',
+        'Tunisia',
+    ];
